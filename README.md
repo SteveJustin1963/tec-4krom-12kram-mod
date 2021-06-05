@@ -20,3 +20,5 @@ https://easyeda.com/editor#id=ca7f0e34e8fe4a03bffd24e4f2ac7bdb
 ![](https://github.com/SteveJustin1963/tec-4krom-12kram-mod/blob/master/pics/4%2B12mod.png)
 
 ![](https://github.com/SteveJustin1963/tec-4krom-12kram-mod/blob/master/pics/pic%20mod.png)
+
+https://github.com/SteveJustin1963/tec-BOOKS/blob/master/TE/Mag/talking_electronics_12.pdf
